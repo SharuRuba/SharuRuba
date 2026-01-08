@@ -1,3 +1,11 @@
+## Hi, I'm Sharu 
+
+Final year CSE student | Web & Mobile Developer  
+Learning PHP & WordPress | Open-source enthusiast  
+
+🔹 Interested in building scalable web solutions  
+🔹 Actively contributing to open-source projects  
+🔹 Exploring WordPress & backend development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharu-ruba-s-5699a4257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharuruba13@gmail.com) 
