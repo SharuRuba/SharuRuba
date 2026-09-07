@@ -10,20 +10,4 @@ Building scalable, secure & reliable cloud solutions
 🔹 Interested in DevOps, cloud architecture & scalable systems
 🔹 Open-source enthusiast
 
-🌐 Socials:
 
-💻 Tech Stack:
-
-📊 GitHub Stats:
-
-<br/>
-<br/>
-
-
-🏆 GitHub Trophies
-
-✍️ Random Dev Quote
-
-🔝 Top Contributed Repo
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
