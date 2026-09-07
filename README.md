@@ -1,90 +1,24 @@
-👋 Hi, I'm Sharu
-Final Year CSE Student | Cloud & DevOps Enthusiast | Aspiring Cloud Engineer
+Hi, I'm Sharu
 
-I'm a final-year Computer Science Engineering student passionate about Cloud Computing, DevOps, Data Engineering, and scalable infrastructure.
+Cloud Engineer | DevOps & Cloud Infrastructure
+Building scalable, secure & reliable cloud solutions
 
-🔹 Building and deploying cloud-based applications
-🔹 Learning Azure, AWS, Linux, Docker & Kubernetes
-🔹 Exploring Databricks, Python & SQL for data engineering
-🔹 Automating workflows with CI/CD and Infrastructure as Code
-🔹 Interested in cloud architecture, containerization, monitoring, and DevOps practices
-🔹 Actively learning and contributing to open-source projects
+🔹 Working with cloud infrastructure, automation & deployment
+🔹 Experienced with Azure, Linux, Docker & Kubernetes
+🔹 Working with Python & SQL for automation and data solutions
+🔹 Exploring Databricks, CI/CD & Infrastructure as Code
+🔹 Interested in DevOps, cloud architecture & scalable systems
+🔹 Open-source enthusiast
 
-🌐 Connect With Me
+🌐 Socials:
 
+💻 Tech Stack:
 
-
-
-☁️ Cloud & DevOps Tech Stack
-☁️ Cloud Platforms
-
-
-
-
-
-🐳 Containers & Orchestration
-
-
-
-
-
-⚙️ DevOps & CI/CD
-
-
-
-
-
-🏗️ Infrastructure as Code
-
-
-
-
-🐧 Operating Systems
-
-
-
-
-🐍 Programming & Scripting
-
-
-
-
-🗄️ Databases & SQL
-
-
-
-
-
-📊 Data Engineering & Analytics
-
-
-
-
-
-🔧 Version Control & Tools
-
-
-
-
-
-🚀 Areas I'm Learning
-☁️ Cloud Computing & Cloud Architecture
-🔧 DevOps & CI/CD
-🐳 Docker & Containerization
-☸️ Kubernetes & Container Orchestration
-🏗️ Infrastructure as Code with Terraform
-🐧 Linux Administration
-🐍 Python Automation & Scripting
-🗄️ SQL & Database Management
-📊 Databricks & Apache Spark
-🔄 Data Engineering & ETL Pipelines
-📈 Cloud Monitoring & Observability
-🔐 Cloud Security & IAM
-📊 GitHub Stats
+📊 GitHub Stats:
 
 <br/>
-
 <br/>
+
 
 🏆 GitHub Trophies
 
